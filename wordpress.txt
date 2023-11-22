@@ -1,0 +1,30 @@
+localhost
+
+mysql :
+db_name : wordpress
+db_username : root
+db_password : 
+db_host : localhost
+
+wp-admin :
+wp_username : goodpastel
+wp_password : kireina91?
+wp_email : diw4yshop@gmail.com
+
+infinityfree
+
+website : goodpastel.rf.gd
+admin : https://goodpastel.rf.gd/wp-admin/
+ftp_username : if0_35474045
+ftp_password : martabaktelor93
+ftp_host : 185.27.134.11
+port : 21
+
+db_name : if0_35474045_wordpress
+db_username : if0_35474045
+db_password : martabaktelor93
+db_host : sql313.infinityfree.com
+
+GitHub
+
+repo name : sample-wordpress	
